@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<!-- template from http://getbootstrap.com/getting-started -->
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap 101 Template</title>
+
+    <!-- CSS Includes -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.0.1/fullcalendar.min.css">
+
+    <style type="text/css">
+        .field-validation-error {
+            color: #ff0000;
+        }
+
+        .spinner {
+            position: absolute;
+            left:50%;
+            top:50%;
+            width:100px;
+            height:100px;
+            border-radius:50%;
+            background:conic-gradient(#0000 10%,#25b09b);
+            -webkit-mask:radial-gradient(farthest-side,#0000 calc(100% - 15px),#000 0);
+            animation:s3 1s infinite linear;
+            }
+            @@keyframes s3 {to{transform: rotate(1turn)}}
+    </style>
+</head>
+
+<body>
+    <div id="pai" class="container">
+        <div id='calendar' data-url-get='@Url.RouteUrl(new{ action= "ConsultarAgendamentos", controller="Home"})'
+            data-url-create='@Url.RouteUrl(new{ action= "CriarAgendamentos", controller="Home"})'
+            data-url-delete='@Url.RouteUrl(new{ action= "DeletarAgendamentos", controller="Home"})'>
+        </div>
+    </div>
+
+    <!-- JS includes -->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+    <script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.11.1/jquery.validate.min.js"></script>
+    <script src="//ajax.aspnetcdn.com/ajax/mvc/4.0/jquery.validate.unobtrusive.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.16.0/moment.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.0.1/fullcalendar.min.js"></script>
+
+    <script type="text/javascript">
+        var calendar = document.getElementById("calendar");
+        var spinner = document.createElement('div');
+        var container = document.getElementById("pai");
+        spinner.setAttribute('class', 'spinner');
+
+	    $(document).ready(function () {
+		    $(calendar).fullCalendar({
+        	    header: {
+            	    left: 'prev,next today',
+            	    center: 'title',
+            	    right: 'month,agendaWeek,agendaDay'
+                },
+                
+
+                firstDay: 1, //The day that each week begins (Monday=1)
+                slotMinutes: 60,
+                events: calendar.getAttribute("data-url-get"),
+                dayClick: function(date, jsEvent, view) {
+                    let dataFormatada = date.format("YYYY/MM/DD HH:mm:ss");
+                    $.ajax({
+                        url:calendar.getAttribute("data-url-create"),
+                        type:'post', 
+                        data:'data=' + dataFormatada,
+                        beforeSend:function(){
+                            $(calendar).css("opacity", 0.4);
+                            container.appendChild(spinner);
+                        }, 
+                        complete:function(){
+                            location.reload();
+                        },
+                        success:function(data){
+                            console.log(data);
+                        }, 
+                        error:function(error){
+                            console.log(error);
+                        }
+                    });
+
+                },
+                eventClick: function(calEvent, jsEvent, view) {
+                    let idEvento = calEvent.id;
+                    $.ajax({
+                        url:calendar.getAttribute("data-url-delete"),
+                        type:'delete', 
+                        data: 'data=' + idEvento,
+                        beforeSend:function(){
+                            $(calendar).css("opacity", 0.4);
+                            container.appendChild(spinner);
+                        }, 
+                        complete:function(){
+                            location.reload();
+                        },
+                        success:function(data){
+                            console.log(data);
+                        }, 
+                        error:function(error){
+                            console.log(error);
+                        }
+                    });
+
+                }
+            });
+        });
+
+            
+    </script>
+</body>
+</html>

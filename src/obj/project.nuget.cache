@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "KTAqEpZiBUdBorIw8wC7JTeUpDdO7QnoDfjWjS1Loc0GbDe2XDVWhFeadUtWji0bx9S7SD2y0Nr0vk2jyyWOpg==",
+  "success": true,
+  "projectFilePath": "C:\\Labs\\CalendarioComGoogle\\CalendarioComGoogle2\\CalendarioComGoogle2\\CalendarioComGoogle2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JeanL\\.nuget\\packages\\google.apis\\1.51.0\\google.apis.1.51.0.nupkg.sha512",
+    "C:\\Users\\JeanL\\.nuget\\packages\\google.apis.auth\\1.51.0\\google.apis.auth.1.51.0.nupkg.sha512",
+    "C:\\Users\\JeanL\\.nuget\\packages\\google.apis.calendar.v3\\1.51.0.2312\\google.apis.calendar.v3.1.51.0.2312.nupkg.sha512",
+    "C:\\Users\\JeanL\\.nuget\\packages\\google.apis.core\\1.51.0\\google.apis.core.1.51.0.nupkg.sha512",
+    "C:\\Users\\JeanL\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
