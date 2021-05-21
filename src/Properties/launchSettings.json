@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "CalendarioComGoogle2": {
+    "CalendarioComGoogle": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

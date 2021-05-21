@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace CalendarioComGoogle2
+namespace CalendarioComGoogle
 {
     public class Program
     {

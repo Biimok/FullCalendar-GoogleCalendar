@@ -1,11 +1,11 @@
-﻿using CalendarioComGoogle2.Models;
+﻿using CalendarioComGoogle.Models;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Globalization;
 
-namespace CalendarioComGoogle2.Controllers
+namespace CalendarioComGoogle.Controllers
 {
 	public class HomeController : Controller
 	{

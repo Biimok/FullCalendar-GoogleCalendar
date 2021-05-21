@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace CalendarioComGoogle2.Models
+namespace CalendarioComGoogle.Models
 {
     public class EventViewModel
     {

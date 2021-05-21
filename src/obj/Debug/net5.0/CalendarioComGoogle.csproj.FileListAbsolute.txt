@@ -1,0 +1,90 @@
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\appsettings.Development.json
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\appsettings.json
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\credentials.json
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\CalendarioComGoogle.exe
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\CalendarioComGoogle.deps.json
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\CalendarioComGoogle.runtimeconfig.json
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\CalendarioComGoogle.runtimeconfig.dev.json
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\CalendarioComGoogle.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\ref\CalendarioComGoogle.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\CalendarioComGoogle.pdb
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\CalendarioComGoogle.Views.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\CalendarioComGoogle.Views.pdb
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\Google.Apis.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.AssemblyInfoInputs.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.AssemblyInfo.cs
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.csproj.CoreCompileInputs.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.MvcApplicationPartsAssemblyInfo.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.RazorAssemblyInfo.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.RazorAssemblyInfo.cs
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\staticwebassets\CalendarioComGoogle.StaticWebAssets.Manifest.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\staticwebassets\CalendarioComGoogle.StaticWebAssets.xml
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\scopedcss\bundle\CalendarioComGoogle.styles.css
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.TagHelpers.input.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.TagHelpers.output.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.RazorCoreGenerate.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.RazorTargetAssemblyInfo.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.RazorTargetAssemblyInfo.cs
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.Views.pdb
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.csproj.CopyComplete
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\ref\CalendarioComGoogle.dll
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.pdb
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.genruntimeconfig.cache
+C:\Labs\CalendarioComGoogle\CalendarioComGoogle\CalendarioComGoogle\obj\Debug\net5.0\CalendarioComGoogle.csprojAssemblyReference.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\appsettings.Development.json
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\appsettings.json
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\credentials.json
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\CalendarioComGoogle.exe
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\CalendarioComGoogle.deps.json
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\CalendarioComGoogle.runtimeconfig.json
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\CalendarioComGoogle.runtimeconfig.dev.json
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\CalendarioComGoogle.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\ref\CalendarioComGoogle.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\CalendarioComGoogle.pdb
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\CalendarioComGoogle.Views.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\CalendarioComGoogle.Views.pdb
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\Google.Apis.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\Google.Apis.Auth.PlatformServices.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\Google.Apis.Auth.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\Google.Apis.Calendar.v3.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\Google.Apis.Core.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.csprojAssemblyReference.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.AssemblyInfoInputs.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.AssemblyInfo.cs
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.csproj.CoreCompileInputs.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.MvcApplicationPartsAssemblyInfo.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.RazorAssemblyInfo.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.RazorAssemblyInfo.cs
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\staticwebassets\CalendarioComGoogle.StaticWebAssets.Manifest.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\staticwebassets\CalendarioComGoogle.StaticWebAssets.xml
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\scopedcss\bundle\CalendarioComGoogle.styles.css
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.TagHelpers.input.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.TagHelpers.output.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.RazorCoreGenerate.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.RazorTargetAssemblyInfo.cache
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.RazorTargetAssemblyInfo.cs
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.Views.pdb
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.csproj.CopyComplete
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\ref\CalendarioComGoogle.dll
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.pdb
+C:\WorkSpace - Personal\FullCalendar+GoogleCalendar\FullCalendar-GoogleCalendar\src\obj\Debug\net5.0\CalendarioComGoogle.genruntimeconfig.cache

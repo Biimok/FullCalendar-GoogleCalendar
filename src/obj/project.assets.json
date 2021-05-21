@@ -208,11 +208,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Labs\\CalendarioComGoogle\\CalendarioComGoogle2\\CalendarioComGoogle2\\CalendarioComGoogle2.csproj",
-      "projectName": "CalendarioComGoogle2",
-      "projectPath": "C:\\Labs\\CalendarioComGoogle\\CalendarioComGoogle2\\CalendarioComGoogle2\\CalendarioComGoogle2.csproj",
+      "projectUniqueName": "C:\\WorkSpace - Personal\\FullCalendar+GoogleCalendar\\FullCalendar-GoogleCalendar\\src\\CalendarioComGoogle.csproj",
+      "projectName": "CalendarioComGoogle",
+      "projectPath": "C:\\WorkSpace - Personal\\FullCalendar+GoogleCalendar\\FullCalendar-GoogleCalendar\\src\\CalendarioComGoogle.csproj",
       "packagesPath": "C:\\Users\\JeanL\\.nuget\\packages\\",
-      "outputPath": "C:\\Labs\\CalendarioComGoogle\\CalendarioComGoogle2\\CalendarioComGoogle2\\obj\\",
+      "outputPath": "C:\\WorkSpace - Personal\\FullCalendar+GoogleCalendar\\FullCalendar-GoogleCalendar\\src\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

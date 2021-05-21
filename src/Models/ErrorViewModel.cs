@@ -1,6 +1,6 @@
 using System;
 
-namespace CalendarioComGoogle2.Models
+namespace CalendarioComGoogle.Models
 {
     public class ErrorViewModel
     {

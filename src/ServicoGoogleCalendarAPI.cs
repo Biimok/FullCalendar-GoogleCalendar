@@ -1,4 +1,4 @@
-﻿using CalendarioComGoogle2.Models;
+﻿using CalendarioComGoogle.Models;
 using Google.Apis.Auth.OAuth2;
 using Google.Apis.Calendar.v3;
 using Google.Apis.Calendar.v3.Data;
@@ -10,7 +10,7 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 
-namespace CalendarioComGoogle2
+namespace CalendarioComGoogle
 {
     public class ServicoGoogleCalendarAPI
     {
